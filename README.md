@@ -1,4 +1,5 @@
-![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/fafb94e5-673b-4020-8778-d38404ff4156)
+![image](https://github.com/bluey22/InTheStars_Game/assets/156853404/cd5a1826-0fa9-49b9-b860-e8e3215ac7f2)
+
 Hope you enjoy this game we made in Unity!
 
 Contributors/Collaborators: @zgoldberg22, @PCahill44, @jan116.
@@ -31,10 +32,11 @@ https://docs.google.com/document/d/1glgDMj1Jnu0mZFy6T49hVTAeMXXnuOIU6Z-kZJ7BjqI/
 
 Screenshots:
 
+![image](https://github.com/bluey22/InTheStars_Game/assets/156853404/53cfdfef-3c62-48f1-9825-bb9ad6b35e8c)
+![image](https://github.com/bluey22/InTheStars_Game/assets/156853404/1eb06555-b939-471a-b239-15ff3075fb8e)
+![image](https://github.com/bluey22/InTheStars_Game/assets/156853404/2840b7ac-923d-4f9a-8f21-26cbb22b9e42)
+![image](https://github.com/bluey22/InTheStars_Game/assets/156853404/22bb7ca9-3da6-4e41-9726-3f3999cfd77d)
 
-![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/75a5985e-20cc-458b-856c-fb6213a094af)
-![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/2711054d-8ec4-4d1c-94b4-1fbd9660e8d0)
-![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/01ddc64f-ede9-4fba-9d9e-8344f41347e6)
-![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/773482ec-bf01-4e58-9568-dc1a19611f39)
-![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/45facf4b-ed65-45af-ae9b-e889e848eced)
+
+
 
